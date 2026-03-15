@@ -257,13 +257,13 @@ parZip(
 ## Community & Contributing
 
 ### Found an issue?
-Open an [issue](https://github.com/yourusername/arrow-kt-skills/issues)
+Open an [issue](https://github.com/jobinlawrance/arrow-kt-skills/issues)
 
 ### Have improvements?
-Create a [pull request](https://github.com/yourusername/arrow-kt-skills/pulls)
+Create a [pull request](https://github.com/jobinlawrance/arrow-kt-skills/pulls)
 
 ### Questions?
-Start a [discussion](https://github.com/yourusername/arrow-kt-skills/discussions)
+Start a [discussion](https://github.com/jobinlawrance/arrow-kt-skills/discussions)
 
 ### Running your own iteration?
 See [program.md](program.md) for the autonomous improvement methodology.
