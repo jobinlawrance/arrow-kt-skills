@@ -23,7 +23,7 @@ The simplest way to use this skill.
 Visit the repo and copy the content of [SKILL.md](SKILL.md):
 
 ```
-https://github.com/yourusername/arrow-kt-kotlin-patterns/blob/main/SKILL.md
+https://github.com/jobinlawrance/arrow-kt-skills/blob/main/SKILL.md
 ```
 
 Click the copy button or select all and copy.
@@ -453,9 +453,9 @@ response = your_llm.complete(
 ## Next Steps
 
 - **Try it out:** Start with the Quick Start section above
-- **Ask questions:** Visit the [discussions](https://github.com/yourusername/arrow-kt-kotlin-patterns/discussions)
-- **Report issues:** [Open an issue](https://github.com/yourusername/arrow-kt-kotlin-patterns/issues)
-- **Contribute:** [Submit a pull request](https://github.com/yourusername/arrow-kt-kotlin-patterns/pulls)
+- **Ask questions:** Visit the [discussions](https://github.com/jobinlawrance/arrow-kt-skills/discussions)
+- **Report issues:** [Open an issue](https://github.com/jobinlawrance/arrow-kt-skills/issues)
+- **Contribute:** [Submit a pull request](https://github.com/jobinlawrance/arrow-kt-skills/pulls)
 
 ---
 
