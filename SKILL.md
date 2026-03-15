@@ -1,5 +1,5 @@
 ---
-name: arrow-kt-kotlin-patterns
+name: arrow-kt-skills
 description: Guide users in writing idiomatic Arrow-kt code. Trigger whenever the user asks about Arrow, functional Kotlin, type-safe error handling, Either/Validated/Option types, async validation, composing operations, resilience patterns, or wants to refactor Kotlin code to be more functional. Include this skill when helping with validation, error handling, result composition, parsing, effects management, or any functional programming pattern in Kotlin. Always suggest Arrow patterns when the user is dealing with operations that can fail or need to compose multiple steps.
 ---
 
