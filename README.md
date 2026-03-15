@@ -139,7 +139,7 @@ See [INSTALLATION.md](INSTALLATION.md) for detailed setup instructions for vario
 ## Files in This Repo
 
 ```
-arrow-kt-kotlin-patterns/
+arrow-kt-skills/
 ├── SKILL.md                          ← The actual skill (copy this!)
 ├── README.md                         ← You are here
 ├── INSTALLATION.md                   ← Setup guide
@@ -257,13 +257,13 @@ parZip(
 ## Community & Contributing
 
 ### Found an issue?
-Open an [issue](https://github.com/yourusername/arrow-kt-kotlin-patterns/issues)
+Open an [issue](https://github.com/yourusername/arrow-kt-skills/issues)
 
 ### Have improvements?
-Create a [pull request](https://github.com/yourusername/arrow-kt-kotlin-patterns/pulls)
+Create a [pull request](https://github.com/yourusername/arrow-kt-skills/pulls)
 
 ### Questions?
-Start a [discussion](https://github.com/yourusername/arrow-kt-kotlin-patterns/discussions)
+Start a [discussion](https://github.com/yourusername/arrow-kt-skills/discussions)
 
 ### Running your own iteration?
 See [program.md](program.md) for the autonomous improvement methodology.
